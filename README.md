@@ -1,4 +1,4 @@
-#Congressional App Challenge Submission
+# Congressional App Challenge Submission
 
 This is our submission to the congressional app challenge. Quick Fill is a chrome extension that allows a user to expedite their writing processes. When a hotkey is pressed, the extension will query the Docs API and
 retrieve the user's document text. It will then summarize this text using the Hugging Face pipeline and query GPT-3. Then, the Docs API will output this response on the user's screen as light-grey italic text. The user can 
